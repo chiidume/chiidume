@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chiidume
-- 👀 I’m interested in fullstack web dev using react and django
+- 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning django rest framework
-- 💞️ I’m looking to collaborate on any frontend 
+- 💞️ I’m looking to collaborate on any A.I
 - 📫 you can reach me on chiidume.github.io
 
 <!---
